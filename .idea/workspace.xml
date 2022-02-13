@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="Finished Unique ID">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="Purposeful break">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581191690472</updated>
       <workItem from="1644554851948" duration="2068000" />
-      <workItem from="1644780654836" duration="1163000" />
+      <workItem from="1644780654836" duration="1516000" />
     </task>
     <task id="LOCAL-00001" summary="Committed Calculator">
       <created>1644555177840</created>
@@ -166,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644780674550</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Changed Jenkinsfile and added Dockerfile">
+      <created>1644784556755</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644784556755</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Purposeful break">
+      <created>1644784680950</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644784680950</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +202,8 @@
     <MESSAGE value="Finished Fibonacci Number" />
     <MESSAGE value="Finished Binary Number function" />
     <MESSAGE value="Finished Unique ID" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Unique ID" />
+    <MESSAGE value="Changed Jenkinsfile and added Dockerfile" />
+    <MESSAGE value="Purposeful break" />
+    <option name="LAST_COMMIT_MESSAGE" value="Purposeful break" />
   </component>
 </project>
