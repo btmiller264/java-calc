@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="Purposeful break">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="Fix for purposeful break">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -120,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581191690472</updated>
       <workItem from="1644554851948" duration="2068000" />
-      <workItem from="1644780654836" duration="1516000" />
+      <workItem from="1644780654836" duration="1845000" />
     </task>
     <task id="LOCAL-00001" summary="Committed Calculator">
       <created>1644555177840</created>
@@ -178,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644784680950</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fix for purposeful break">
+      <created>1644784763577</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644784763577</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +219,7 @@
     <MESSAGE value="Finished Unique ID" />
     <MESSAGE value="Changed Jenkinsfile and added Dockerfile" />
     <MESSAGE value="Purposeful break" />
-    <option name="LAST_COMMIT_MESSAGE" value="Purposeful break" />
+    <MESSAGE value="Fix for purposeful break" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix for purposeful break" />
   </component>
 </project>
